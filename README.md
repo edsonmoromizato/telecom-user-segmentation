@@ -1,7 +1,5 @@
 # telecom-user-segmentation
-Análisis estadístico, limpieza de datos y segmentación de clientes para la empresa de telecomunicaciones ConnectaTel. Desarrollado con Python y Pandas.
-
-Este es un proyecto de análisis de datos para **ConnectaTel** (una empresa de telefonía), en el cual analizo cómo usan los clientes su servicio para ayudar a la empresa a entender qué tipo de usuarios tiene y doy recomendaciones de negocio en base a las conclusiones del análisis.
+Análisis estadístico, limpieza de datos y segmentación de clientes para la empresa de telecomunicaciones ConnectaTel. Desarrollado con Python y Pandas, en el cual analizo cómo usan los clientes su servicio para ayudar a la empresa a entender qué tipo de usuarios tiene y doy recomendaciones de negocio en base a las conclusiones del análisis.
 
 ---
 
